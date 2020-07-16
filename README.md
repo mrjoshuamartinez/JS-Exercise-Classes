@@ -11,7 +11,7 @@ This challenge focuses on using the new for ES6 `class` syntax.
 
 ## Instructions
 
-### Task 1 - Set up Project
+### Task 1 - Set up Project 
 
 1. Fork repo and add TL as collaborator on Github.
 1. Clone _your_ fork (not Lambda's repo by mistake!).
